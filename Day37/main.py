@@ -9,7 +9,7 @@ TOKEN = os.environ.get("TOKEN")
 GRAPH_ID = "graph1"
 
 user_params = {
-    "token": TOKEN
+    "token": TOKEN,
     "username": "pereirics",
     "agreeTermsOfService": "yes",
     "notMinor": "yes"
